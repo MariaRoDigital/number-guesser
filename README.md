@@ -1,0 +1,1 @@
+This is a Codecademy challenge project where I was tasked with programming specific functions for a number guessing game that is human vs computer
