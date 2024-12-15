@@ -1,4 +1,6 @@
-This is a Codecademy challenge project where I was tasked with programming specific functions for a number guessing game that is human vs computer. During the challenge, I wasn't sure what method to use to get a range of numbers and compare the closest in order to find the closest answer that the computer and the human gave. You will see my attempt commented out inside the compareguesses() block. As I proceeded to the next tasks though, I found that my solution at finding a range that would give me who was closest to the number, wouldn't work
+# Codecademy Number guesser challenge
+
+## This is a Codecademy challenge project where I was tasked with programming specific functions for a number guessing game that is human vs computer
 
 Challenge Tasks:
 
